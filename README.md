@@ -1,11 +1,60 @@
-# Raves and Revolts
-## Vampire the Masquerade Experience
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Aesthetically Pleasing Webpage</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f2f2f2;
+      margin: 0;
+      padding: 0;
+    }
 
-Code of Conduct: 
-<ol>
-  <li>objectification of a person’s physical OoC characteristics (e.g weight, height, skin colour etc) will not be tolerated.</li>
-  <li>bullying of any fashion, OoC,  will not be tolerated (including abuses of power etc)</li>
-  <li>sexual harassment.</li>
-  <li>physical assault in any fashion.</li>
-  <li>etc....</li>
-</ol>
+    header {
+      background-color: #333;
+      color: #fff;
+      padding: 20px;
+      text-align: center;
+    }
+
+    h1 {
+      margin: 0;
+      font-size: 28px;
+    }
+
+    .container {
+      max-width: 800px;
+      margin: 20px auto;
+      padding: 20px;
+      background-color: #fff;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+
+    p {
+      line-height: 1.5;
+    }
+
+    footer {
+      background-color: #333;
+      color: #fff;
+      padding: 10px;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Welcome to My Webpage!</h1>
+  </header>
+
+  <div class="container">
+    <h2>About Me</h2>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla varius lacus nec sem semper, et mattis sapien varius.</p>
+    <p>Sed auctor mi a ante porttitor, eu pellentesque magna cursus. Sed hendrerit lectus ac est fermentum, ac eleifend ex semper.</p>
+  </div>
+
+  <footer>
+    &copy; 2023 My Webpage. All rights reserved.
+  </footer>
+</body>
+</html>
