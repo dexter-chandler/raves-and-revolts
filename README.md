@@ -49,12 +49,47 @@
 
   <div class="container">
     <h2>About Our system</h2>
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla varius lacus nec sem semper, et mattis sapien varius.</p>
-    <p>Sed auctor mi a ante porttitor, eu pellentesque magna cursus. Sed hendrerit lectus ac est fermentum, ac eleifend ex semper.</p>
+ <p>
+  Code of Conduct:
+</p>
+
+<ul>
+  <li>Objectification of a person’s physical OoC characteristics (e.g. weight, height, skin color, etc.) will not be tolerated.</li>
+  <li>Bullying of any fashion, OoC, will not be tolerated (including abuses of power, etc).</li>
+  <li>Sexual harassment.</li>
+  <li>Physical assault in any fashion.</li>
+  <li>Prejudice regarding sexual orientation (homophobia, etc).</li>
+  <li>Prejudices regarding gender identity (misandry/misogyny/transphobia).</li>
+  <li>Severe intoxication of any kind (be that alcohol or drugs).</li>
+  <li>Disrespect of staff/npc crew.</li>
+  <li>Ignoring OoC boundaries of any fashion following a calibrated discussion.</li>
+  <li>Racism, real-world or otherwise.</li>
+  <li>Prejudices regarding disabilities (disability-based discrimination).</li>
+  <li>Comments regarding OoC age (age-based discrimination).</li>
+  <li>Prejudices regarding the beliefs or religion of any player (OoC).</li>
+  <li>Any real-world crime.</li>
+  <li>Sexual activity (explicit sexual activity is prohibited).</li>
+  <li>Offensive symbols and iconography (swastikas, far-right imagery, etc).</li>
+  <li>The game is fundamentally 18+ and all attendees must be above that age.</li>
+  <li>Comments on the social status, class, wealth, etc., of any player (OoC) are not to be tolerated.</li>
+  <li>KIT IS ASPIRATIONAL -</li>
+</ul>
+
+<p>
+  TBC
+</p>
+In this HTML text block, the content is enclosed within <p> (paragraph) tags, while the list items are enclosed within an unordered list <ul> and list item <li> tags. Each point in the list is represented as a separate list item. Feel free to modify the HTML code or the formatting as needed.
+
+
+
+
+
+
+
   </div>
 
   <footer>
-    &copy; 2023 My Webpage. All rights reserved.
+    &copy; 2023 Raves and Revolts. All rights reserved.
   </footer>
 </body>
 </html>
