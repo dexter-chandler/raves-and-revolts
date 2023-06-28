@@ -1,11 +1,11 @@
-<!DOCTYPE html>
+
 <html>
 <head>
   <title>My Aesthetically Pleasing Webpage</title>
   <style>
     body {
       font-family: Arial, sans-serif;
-      background-color: #f2f2f2;
+      background-color: #4C4C4C;
       margin: 0;
       padding: 0;
     }
@@ -44,11 +44,11 @@
 </head>
 <body>
   <header>
-    <h1>Welcome to My Webpage!</h1>
+    <h1>Raves and Revolts</h1>
   </header>
 
   <div class="container">
-    <h2>About Me</h2>
+    <h2>About Our system</h2>
     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla varius lacus nec sem semper, et mattis sapien varius.</p>
     <p>Sed auctor mi a ante porttitor, eu pellentesque magna cursus. Sed hendrerit lectus ac est fermentum, ac eleifend ex semper.</p>
   </div>
