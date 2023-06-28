@@ -29,6 +29,17 @@
       background-color: #7D7D7D;
       box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     }
+    .container2 {
+      max-width: 800px;
+      margin: 20px auto;
+      padding: 20px;
+      background-color: #fff;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+
+    p {
+      line-height: 1.5;
+    }
 
     p {
       line-height: 1.5;
@@ -78,15 +89,11 @@
 <p>
   TBC
 </p>
-
-
-
-
-
-
-
   </div>
-
+<div class="container2">
+  <h2>About Our system</h2>
+<li>PLACE HOLDER TEXT</li>
+   </div>
   <footer>
     &copy; 2023 Raves and Revolts. All rights reserved.
   </footer>
