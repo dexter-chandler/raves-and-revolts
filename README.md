@@ -78,7 +78,6 @@
 <p>
   TBC
 </p>
-In this HTML text block, the content is enclosed within <p> (paragraph) tags, while the list items are enclosed within an unordered list <ul> and list item <li> tags. Each point in the list is represented as a separate list item. Feel free to modify the HTML code or the formatting as needed.
 
 
 
