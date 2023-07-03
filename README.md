@@ -125,7 +125,7 @@
   </main>
   
   <footer>
-    <p>&copy; 2023 Raves and Revolts Vampire: The Masquerade LARP. All rights reserved. <img src="Symbol" alt="Symbol_RR" width="100" height="100"></h1></p>
+    <p>&copy; 2023 Raves and Revolts Vampire: The Masquerade LARP. All rights reserved.</p>
   </footer>
 </body>
 </html>
