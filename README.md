@@ -1,11 +1,11 @@
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Vampire: The Masquerade LARP</title>
-  <link rel="stylesheet" href="styles.css">
-<style> 
-   body {
+    <html lang="en">
+    <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vampire: The Masquerade LARP</title>
+    <link rel="stylesheet" href="styles.css">
+    <style> 
+    body {
       
       background-colour: #7d7d7d;
       color: #fff;
@@ -63,15 +63,15 @@
       margin: 0;
       font-size: 14px;
     }
-  </style>
-</head>
-<body>
-  <header>
+    </style>
+    </head>
+    <body>
+    <header>
     <h1>Raves and Revolts a Vampire: The Masquerade LARP</h1>
     
-  </header>
+    </header>
 
-  <main>
+    <main>
     <section>
       <h2>The Hook...</h2>
       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer sodales ligula nec mi pulvinar, id sollicitudin mi dapibus. Phasellus sed consectetur nibh. Aenean tristique placerat lorem, eu tempus enim gravida eget. Suspendisse rhoncus ligula eget dui euismod volutpat.</p>
@@ -112,14 +112,14 @@
       <a href="https://www.paypal.com/example-link" target="_blank" rel="noopener noreferrer">Make a Payment</a>
     </section>
 
-  <section>
-  <h2>The Legal Stuff</h2>
-  <p>Portions of the materials are the copyrights and trademarks of Paradox Interactive AB, and are used with permission. All rights reserved. For more information please visit worldofdarkness.com.</p>
-  <p>All content written by us that appears both on the website and in documentation is unofficial World of Darkness material.</p> 
+    <section>
+    <h2>The Legal Stuff</h2>
+    <p>Portions of the materials are the copyrights and trademarks of Paradox Interactive AB, and are used with permission. All rights reserved. For more information please visit worldofdarkness.com.</p>
+    <p>All content written by us that appears both on the website and in documentation is unofficial World of Darkness material.</p> 
     <p> <img src="darkpack_logo2.png" alt="darkpack" width= "100" height= "100" /> </p>
- </section>
+    </section>
  
-  <footer>
+    <footer>
     <p>&copy; 2023 Raves and Revolts Vampire: The Masquerade LARP. All rights reserved.</p>
-  </footer>
+    </footer>
 
