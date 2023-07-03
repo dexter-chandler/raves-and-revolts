@@ -132,7 +132,7 @@
   <section>
   <h2>The Legal Stuff</h2>
   <p>Portions of the materials are the copyrights and trademarks of Paradox Interactive AB, and are used with permission. All rights reserved. For more information please visit worldofdarkness.com.</p>
-  <p>All content written by us that appears both on the website and in documentation is unofficial World of Darkness material. 
+  <p>All content written by us that appears both on the website and in documentation is unofficial World of Darkness material. <img src="darkpack_logo2.png" alt="darkpack" />
   </p>
  </section>
  
