@@ -2,14 +2,14 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="Background">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Vampire: The Masquerade LARP</title>
   <link rel="stylesheet" href="styles.css">
   <style>
     
 
     body {
-     background-image: url("3d-rendering-neon-mega-city-600w-2084311540.webp");
+     background-image: url("Background");
       background-size: cover;
     
       color: #fff;
