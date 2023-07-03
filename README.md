@@ -18,7 +18,7 @@
     
     header {
       background-color: #111;
-      padding: 0px;
+      padding: 10px;
       text-align: center;
     }
     
@@ -29,7 +29,7 @@
     
     main {
       background-color: #000;
-      max-width: 800px;
+      max-width: 1200px;
       margin: 20px auto;
       padding: 20px;
     }
