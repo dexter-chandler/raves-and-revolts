@@ -43,7 +43,7 @@
     }
 
     main {
-      background-colour: #111;  
+      background-colour: #000000;  
       max-width: 800px;
       margin: 20px auto;
       padding: 20px;
