@@ -4,13 +4,11 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Vampire: The Masquerade LARP</title>
   <link rel="stylesheet" href="styles.css">
-  <style>
-    body {
-      background-image: url("darkpack_logo2.png");
-      background-size: cover;
-      width: 300px;
-      height: 300px;
-      border: solid 2px red;
+<style> 
+   
+   body {
+      
+      background-colour: #7d7d7d;
       color: #fff;
       font-family: Arial, sans-serif;
     }
