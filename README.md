@@ -129,10 +129,9 @@
       <p>If you're ready to make a payment, click the button below to visit our PayPal payment page:</p>
       <a href="https://www.paypal.com/example-link" target="_blank" rel="noopener noreferrer">Make a Payment</a>
     </section>
-  </main>
+  
 
   <footer>
     <p>&copy; 2023 Raves and Revolts Vampire: The Masquerade LARP. All rights reserved.</p>
   </footer>
-</body>
-</html>
+
