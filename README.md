@@ -85,7 +85,7 @@
 </head>
 <body>
   <header>
-    <h1>Vampire: The Masquerade LARP</h1>
+    <h1>Raves and Revolts a Vampire: The Masquerade LARP</h1>
     
   </header>
 
@@ -133,7 +133,7 @@
   </main>
 
   <footer>
-    <p>&copy; 2023 Vampire: The Masquerade LARP. All rights reserved.</p>
+    <p>&copy; 2023 Raves and Revolts Vampire: The Masquerade LARP. All rights reserved.</p>
   </footer>
 </body>
 </html>
