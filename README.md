@@ -71,7 +71,7 @@
 </head>
 <body>
   <header>
-    <h1>Raves and Revolts a Vampire: The Masquerade LARP <img src="Symbol" alt="Symbol_RR" width="100" height="100"></h1>
+    <h1>Raves and Revolts a Vampire: The Masquerade LARP <img src="Symbol" alt="Symbol_RR" width="150" height="150"></h1>
   </header>
   
   <main>
