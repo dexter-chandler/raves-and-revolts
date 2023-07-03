@@ -13,7 +13,7 @@
       background-size: cover;
     
       color: #fff;
-      font-family: Arial, sans-serif;
+      font-family: Times New Roman, serif;
     }
     
     header {
