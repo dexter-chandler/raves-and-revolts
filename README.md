@@ -42,7 +42,13 @@
     }
 
     main {
-      background-color: #111;
+
+     background-image: url("darkpack_logo2.png");
+     background-size: contains;
+     width: 300px;
+     height: 300px;
+     border: solid 2px red;
+
       max-width: 800px;
       margin: 20px auto;
       padding: 20px;
@@ -133,8 +139,8 @@
   <section>
   <h2>The Legal Stuff</h2>
   <p>Portions of the materials are the copyrights and trademarks of Paradox Interactive AB, and are used with permission. All rights reserved. For more information please visit worldofdarkness.com.</p>
-  <p>All content written by us that appears both on the website and in documentation is unofficial World of Darkness material. <img src="darkpack_logo2.png" alt="darkpack" width= "50" height= "50" />
-  </p>
+  <p>All content written by us that appears both on the website and in documentation is unofficial World of Darkness material.</p> 
+    <p> <img src="darkpack_logo2.png" alt="darkpack" width= "100" height= "100" /> </p>
  </section>
  
   <footer>
