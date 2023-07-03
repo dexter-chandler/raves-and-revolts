@@ -12,7 +12,7 @@
      background-image: url("Background");
       background-size: cover;
     
-      color: #8E8888;
+      color: #fff;
       font-family: Arial, sans-serif;
     }
     
@@ -28,7 +28,7 @@
     }
     
     main {
-      background-color: #000;
+      background-color: #8E8888;
       max-width: 1600px;
       margin: 20px auto;
       padding: 20px;
