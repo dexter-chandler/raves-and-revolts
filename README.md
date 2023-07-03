@@ -6,6 +6,15 @@
   <title>Vampire: The Masquerade LARP</title>
   <link rel="stylesheet" href="styles.css">
   <style>
+    
+    .background {
+      background-image: url("/image.jpg");
+      background-size: cover;
+      border: solid 2px red;
+     }
+<div class="background">
+</div>
+
     body {
       color: #fff;
       font-family: Arial, sans-serif;
