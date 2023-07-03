@@ -42,7 +42,6 @@
     }
 
     main {
-      background-color: #111;
       max-width: 800px;
       margin: 20px auto;
       padding: 20px;
