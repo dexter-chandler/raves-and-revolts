@@ -1,101 +1,57 @@
-
-<html>
+<!DOCTYPE html>
+<html lang="en">
 <head>
-  <title>My Aesthetically Pleasing Webpage</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      background-color: #4C4C4C;
-      margin: 0;
-      padding: 0;
-    }
-
-    header {
-      background-color: #333;
-      color: #fff;
-      padding: 40px;
-      text-align: center;
-    }
-
-    h1 {
-      margin: 0;
-      font-size: 28px;
-    }
-
-    .container {
-      max-width: 1600px;
-      margin: 50px auto;
-      padding: 5px;
-      background-color: #7D7D7D;
-      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    }
-    .container2 {
-      max-width: 1600px;
-      margin: 50px auto;
-      padding: 5px;
-      background-color: #7D7D7D;
-      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    }
-
-    p {
-      line-height: 1.5;
-    }
-
-    p {
-      line-height: 1.5;
-    }
-
-    footer {
-      background-color: #333;
-      color: #fff;
-      padding: 10px;
-      text-align: center;
-    }
-  </style>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Vampire: The Masquerade LARP</title>
+  <link rel="stylesheet" href="styles.css">
 </head>
 <body>
   <header>
-    <h1>Raves and Revolts</h1>
+    <h1>Vampire: The Masquerade LARP</h1>
+    <nav>
+      <ul>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">Characters</a></li>
+        <li><a href="#">Rules</a></li>
+        <li><a href="#">Events</a></li>
+        <li><a href="#">Gallery</a></li>
+        <li><a href="#">Contact</a></li>
+      </ul>
+    </nav>
   </header>
 
-  <div class="container">
-    <h2>About Our system</h2>
- <p>
-  Code of Conduct:
-</p>
+  <main>
+    <section>
+      <h2>Welcome to our Vampire: The Masquerade LARP</h2>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer sodales ligula nec mi pulvinar, id sollicitudin mi dapibus. Phasellus sed consectetur nibh. Aenean tristique placerat lorem, eu tempus enim gravida eget. Suspendisse rhoncus ligula eget dui euismod volutpat.</p>
+    </section>
 
-<ul>
-  <li>Objectification of a person’s physical OoC characteristics (e.g. weight, height, skin color, etc.) will not be tolerated.</li>
-  <li>Bullying of any fashion, OoC, will not be tolerated (including abuses of power, etc).</li>
-  <li>Sexual harassment.</li>
-  <li>Physical assault in any fashion.</li>
-  <li>Prejudice regarding sexual orientation (homophobia, etc).</li>
-  <li>Prejudices regarding gender identity (misandry/misogyny/transphobia).</li>
-  <li>Severe intoxication of any kind (be that alcohol or drugs).</li>
-  <li>Disrespect of staff/npc crew.</li>
-  <li>Ignoring OoC boundaries of any fashion following a calibrated discussion.</li>
-  <li>Racism, real-world or otherwise.</li>
-  <li>Prejudices regarding disabilities (disability-based discrimination).</li>
-  <li>Comments regarding OoC age (age-based discrimination).</li>
-  <li>Prejudices regarding the beliefs or religion of any player (OoC).</li>
-  <li>Any real-world crime.</li>
-  <li>Sexual activity (explicit sexual activity is prohibited).</li>
-  <li>Offensive symbols and iconography (swastikas, far-right imagery, etc).</li>
-  <li>The game is fundamentally 18+ and all attendees must be above that age.</li>
-  <li>Comments on the social status, class, wealth, etc., of any player (OoC) are not to be tolerated.</li>
-  <li>KIT IS ASPIRATIONAL -</li>
-</ul>
+    <section>
+      <h2>Latest Events</h2>
+      <ul>
+        <li>
+          <h3>Event 1</h3>
+          <p>Date: September 15, 2023</p>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+        </li>
+        <li>
+          <h3>Event 2</h3>
+          <p>Date: October 10, 2023</p>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+        </li>
+      </ul>
+    </section>
 
-<p>
-  TBC
-</p>
-  </div>
-<div class="container2">
-  <h2>About Our system</h2>
-<li>PLACE HOLDER TEXT</li>
-   </div>
+    <section>
+      <h2>Character Creation</h2>
+      <p>If you are interested in creating a character for our LARP, please follow the character creation guidelines and submit your character sheet.</p>
+      <a href="#">Character Creation Guidelines</a>
+    </section>
+  </main>
+
   <footer>
-    &copy; 2023 Raves and Revolts. All rights reserved.
+    <p>&copy; 2023 Vampire: The Masquerade LARP. All rights reserved.</p>
   </footer>
 </body>
 </html>
