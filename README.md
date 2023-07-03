@@ -12,12 +12,12 @@
      background-image: url("Background");
       background-size: cover;
     
-      color: #fff;
+      color: #8E8888;
       font-family: Arial, sans-serif;
     }
     
     header {
-      background-color: #111;
+      background-color: #8E8888;
       padding: 10px;
       text-align: center;
     }
@@ -58,7 +58,7 @@
     }
     
     footer {
-      background-color: #111;
+      background-color: #8E8888;
       padding: 20px;
       text-align: center;
     }
