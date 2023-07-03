@@ -6,7 +6,7 @@
   <link rel="stylesheet" href="styles.css">
   <style>
     body {
-      background-color: #000;
+      background-color: #656160;
       color: #fff;
       font-family: Arial, sans-serif;
     }
