@@ -1,65 +1,64 @@
-    <html lang="en">
-    <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Vampire: The Masquerade LARP</title>
-    <link rel="stylesheet" href="styles.css">
-    <style> 
-    body {
-      
-      background-colour: #7d7d7d;
-      color: #fff;
-      font-family: Arial, sans-serif;
+ <html lang="en">
+ <head>
+<meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <title>Vampire: The Masquerade LARP</title>
+<link rel="stylesheet" href="styles.css">
+     <style> 
+         body {
+       background-colour: #7d7d7d;
+       color: #fff;
+       font-family: Arial, sans-serif;
     }
 
-    header {
-      background-color: #111;
-      padding: 20px;
-      text-align: center;
+header { 
+ background-color: #111;
+ padding: 20px;
+ text-align: center;
     }
 
-    h1 {
+  h1 {
       margin: 0;
       font-size: 36px;
     }
     
-    main {
+  main {
       background-colour: #000;  
       max-width: 800px;
       margin: 20px auto;
       padding: 20px;
     }
 
-    section {
+  section {
       margin-bottom: 40px;
     }
 
-    h2 {
+  h2 {
       font-size: 24px;
       margin-bottom: 10px;
     }
 
-    p {
+ p {
       margin: 0;
       line-height: 1.5;
     }
 
-    a {
+ a {
       color: #fff;
       text-decoration: none;
     }
 
-    a:hover {
+a:hover {
       text-decoration: underline;
     }
 
-    footer {
+  footer {
       background-color: #111;
       padding: 20px;
       text-align: center;
     }
 
-    footer p {
+ footer p {
       margin: 0;
       font-size: 14px;
     }
@@ -69,15 +68,15 @@
     <header>
     <h1>Raves and Revolts a Vampire: The Masquerade LARP</h1>
     
-    </header>
+</header>
 
-    <main>
+ <main>
     <section>
       <h2>The Hook...</h2>
       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer sodales ligula nec mi pulvinar, id sollicitudin mi dapibus. Phasellus sed consectetur nibh. Aenean tristique placerat lorem, eu tempus enim gravida eget. Suspendisse rhoncus ligula eget dui euismod volutpat.</p>
     </section>
 
-    <section>
+<section>
       <h2>The Event</h2>
       <ul>
         <li>
@@ -87,13 +86,13 @@
         </li>
      
 
-    <section>
+ <section>
       <h2>Character Creation</h2>
       <p>If you are interested in creating a character for our LARP, please join our discord at the link below to find documentation and guidelines</p>
       <a href="https://www.paypal.com/example-link" target="_blank" rel="noopener noreferrer">Discord Link</a>
     </section>
 
-    <section>
+   <section>
       <h2>Payment Guidelines</h2>
       <p>To participate in our Vampire: The Masquerade LARP, please follow the payment guidelines below:</p>
       <ol>
@@ -106,20 +105,20 @@
       </ol>
     </section>
 
-    <section>
+<section>
       <h2>PayPal Payment Link</h2>
       <p>If you're ready to make a payment, click the button below to visit our PayPal payment page:</p>
       <a href="https://www.paypal.com/example-link" target="_blank" rel="noopener noreferrer">Make a Payment</a>
     </section>
 
-    <section>
+<section>
     <h2>The Legal Stuff</h2>
     <p>Portions of the materials are the copyrights and trademarks of Paradox Interactive AB, and are used with permission. All rights reserved. For more information please visit worldofdarkness.com.</p>
     <p>All content written by us that appears both on the website and in documentation is unofficial World of Darkness material.</p> 
     <p> <img src="darkpack_logo2.png" alt="darkpack" width= "100" height= "100" /> </p>
     </section>
  
-    <footer>
+<footer>
     <p>&copy; 2023 Raves and Revolts Vampire: The Masquerade LARP. All rights reserved.</p>
     </footer>
 
