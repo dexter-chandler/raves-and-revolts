@@ -17,7 +17,7 @@
     }
     
     header {
-      background-color: #8E8888;
+      background-color: #393636;
       padding: 10px;
       text-align: center;
     }
@@ -28,7 +28,7 @@
     }
     
     main {
-      background-color: #8E8888;
+      background-color: #393636;
       max-width: 1600px;
       margin: 20px auto;
       padding: 20px;
@@ -58,7 +58,7 @@
     }
     
     footer {
-      background-color: #8E8888;
+      background-color: #393636;
       padding: 20px;
       text-align: center;
     }
