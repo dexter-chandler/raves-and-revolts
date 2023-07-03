@@ -86,16 +86,7 @@
 <body>
   <header>
     <h1>Vampire: The Masquerade LARP</h1>
-    <nav>
-      <ul>
-        <li><a href="#">Home</a></li>
-        <li><a href="#">Characters</a></li>
-        <li><a href="#">Rules</a></li>
-        <li><a href="#">Events</a></li>
-        <li><a href="#">Gallery</a></li>
-        <li><a href="#">Contact</a></li>
-      </ul>
-    </nav>
+    
   </header>
 
   <main>
@@ -105,19 +96,14 @@
     </section>
 
     <section>
-      <h2>Latest Events</h2>
+      <h2>The Event</h2>
       <ul>
         <li>
-          <h3>Event 1</h3>
-          <p>Date: September 15, 2023</p>
+          <h3>Details</h3>
+          <p>Date: TBA - Summer 2024 </p>
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
         </li>
-        <li>
-          <h3>Event 2</h3>
-          <p>Date: October 10, 2023</p>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-        </li>
-      </ul>
+        <
     </section>
 
     <section>
