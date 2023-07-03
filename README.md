@@ -7,15 +7,11 @@
   <link rel="stylesheet" href="styles.css">
   <style>
     
-    .background {
-      background-image: url("3d-rendering-neon-mega-city-600w-2084311540.webp");
-      background-size: cover;
-      border: solid 2px red;
-     }
-<div class="background">
-</div>
 
     body {
+     background-image: url("3d-rendering-neon-mega-city-600w-2084311540.webp");
+      background-size: cover;
+      border: solid 2px red;
       color: #fff;
       font-family: Arial, sans-serif;
     }
