@@ -24,7 +24,7 @@
     }
     
     main {
-      background-colour: #000000;  
+      background-colour: #000;  
       max-width: 800px;
       margin: 20px auto;
       padding: 20px;
