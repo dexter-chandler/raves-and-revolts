@@ -71,7 +71,7 @@
 </head>
 <body>
   <header>
-    <h1>Raves and Revolts a Vampire: The Masquerade LARP <img src="Symbol" alt="Symbol_RR" width="40" height="40"></h1>
+    <h1>Raves and Revolts a Vampire: The Masquerade LARP <img src="Symbol" alt="Symbol_RR" width="100" height="100"></h1>
   </header>
   
   <main>
@@ -125,7 +125,7 @@
   </main>
   
   <footer>
-    <p>&copy; 2023 Raves and Revolts Vampire: The Masquerade LARP. All rights reserved. <img src="Symbol" alt="Symbol_RR" width="40" height="40"></h1></p>
+    <p>&copy; 2023 Raves and Revolts Vampire: The Masquerade LARP. All rights reserved. <img src="Symbol" alt="Symbol_RR" width="100" height="100"></h1></p>
   </footer>
 </body>
 </html>
