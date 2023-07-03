@@ -11,7 +11,7 @@
     body {
      background-image: url("3d-rendering-neon-mega-city-600w-2084311540.webp");
       background-size: cover;
-      border: solid 2px red;
+    
       color: #fff;
       font-family: Arial, sans-serif;
     }
