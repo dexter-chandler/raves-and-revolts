@@ -102,13 +102,12 @@
           <p>Date: TBA - Summer 2024 </p>
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
         </li>
-        <
-    </section>
+     
 
     <section>
       <h2>Character Creation</h2>
-      <p>If you are interested in creating a character for our LARP, please follow the character creation guidelines and submit your character sheet.</p>
-      <a href="#">Character Creation Guidelines</a>
+      <p>If you are interested in creating a character for our LARP, please join our discord at the link below to find documentation and guidelines</p>
+      <a href="https://www.paypal.com/example-link" target="_blank" rel="noopener noreferrer">Discord Link</a>
     </section>
 
     <section>
