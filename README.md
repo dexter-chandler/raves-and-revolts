@@ -44,7 +44,7 @@
     main {
 
      background-image: url("darkpack_logo2.png");
-     background-size: contains;
+     background-size: cover;
      width: 300px;
      height: 300px;
      border: solid 2px red;
