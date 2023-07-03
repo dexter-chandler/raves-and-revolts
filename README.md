@@ -90,7 +90,7 @@
 
   <main>
     <section>
-      <h2>Welcome to our Vampire: The Masquerade LARP</h2>
+      <h2>The Hook...</h2>
       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer sodales ligula nec mi pulvinar, id sollicitudin mi dapibus. Phasellus sed consectetur nibh. Aenean tristique placerat lorem, eu tempus enim gravida eget. Suspendisse rhoncus ligula eget dui euismod volutpat.</p>
     </section>
 
@@ -118,7 +118,7 @@
         <li>Step 2: Log in to your PayPal account (or create a new one)</li>
         <li>Step 3: Click on the "Send & Request" tab</li>
         <li>Step 4: Enter the payment amount and our PayPal email address</li>
-        <li>Step 5: Add a note with your name and the purpose of the payment (e.g., LARP registration fee)</li>
+        <li>Step 5: Add a note with your name and "R&R LARP"</li>
         <li>Step 6: Review the payment details and click "Send"</li>
       </ol>
     </section>
