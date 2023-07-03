@@ -5,7 +5,6 @@
   <title>Vampire: The Masquerade LARP</title>
   <link rel="stylesheet" href="styles.css">
 <style> 
-   
    body {
       
       background-colour: #7d7d7d;
