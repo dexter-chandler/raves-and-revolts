@@ -8,7 +8,7 @@
   <style>
     
     .background {
-      background-image: url("/image.jpg");
+      background-image: url("3d-rendering-neon-mega-city-600w-2084311540.webp");
       background-size: cover;
       border: solid 2px red;
      }
