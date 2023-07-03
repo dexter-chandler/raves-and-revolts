@@ -6,7 +6,11 @@
   <link rel="stylesheet" href="styles.css">
   <style>
     body {
-      background-color: #7D7D7D;
+      background-image: url("darkpack_logo2.png");
+      background-size: cover;
+      width: 300px;
+      height: 300px;
+      border: solid 2px red;
       color: #fff;
       font-family: Arial, sans-serif;
     }
@@ -42,13 +46,7 @@
     }
 
     main {
-
-     background-image: url("darkpack_logo2.png");
-     background-size: cover;
-     width: 300px;
-     height: 300px;
-     border: solid 2px red;
-
+      background-colour: #111;  
       max-width: 800px;
       margin: 20px auto;
       padding: 20px;
