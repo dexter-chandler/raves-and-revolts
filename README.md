@@ -22,26 +22,7 @@
       margin: 0;
       font-size: 36px;
     }
-
-    nav ul {
-      list-style: none;
-      margin: 0;
-      padding: 0;
-      display: flex;
-      justify-content: center;
-      margin-top: 20px;
-    }
-
-    nav ul li {
-      margin-right: 20px;
-    }
-
-    nav ul li a {
-      color: #fff;
-      text-decoration: none;
-      font-size: 18px;
-    }
-
+    
     main {
       background-colour: #000000;  
       max-width: 800px;
