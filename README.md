@@ -29,7 +29,7 @@
     
     main {
       background-color: #000;
-      max-width: 1200px;
+      max-width: 1600px;
       margin: 20px auto;
       padding: 20px;
     }
