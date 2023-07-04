@@ -69,6 +69,7 @@
     }
     
     footer p {
+     color: #fff;
       margin: 0;
       font-size: 14px;
     }
