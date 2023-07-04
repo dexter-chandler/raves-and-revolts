@@ -17,6 +17,7 @@
     }
     
     header {
+      font-family: Times, serif;
       background-color: #393636;
       padding: 10px;
       text-align: center;
