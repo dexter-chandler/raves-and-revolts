@@ -79,7 +79,9 @@
   <header>
     <h1>Raves and Revolts a Vampire: The Masquerade LARP <img src="Symbol_13.jpg" alt="Symbol_RR" width="250" height="250"></h1>
   </header>
-   <nav>
+  
+  <main>
+     <nav>
       <ul>
         <a href="#">Home</a>
         <a href="#">Characters</a>
@@ -88,7 +90,6 @@
         <a href="#">Contact</a>
       </ul>
     </nav>
-  <main>
     <section>
       <h2>The Hook...</h2>
       <p>
