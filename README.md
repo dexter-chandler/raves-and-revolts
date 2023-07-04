@@ -33,7 +33,7 @@
       margin: 20px auto;
       padding: 20px;
       text-align: center;
-      font-size: 40;
+      font-size: 20;
     }
     
     section {
