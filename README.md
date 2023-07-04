@@ -83,7 +83,7 @@
   <main>
      <nav>
       <ul>
-        <a href="README.md">Home</a>
+        <a href="body">Home</a>
         <a href="#">Characters</a>
         <a href="The Clans">The Clans</a>
         <a href="#">Rules</a>
