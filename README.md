@@ -34,6 +34,8 @@
       max-width: 1600px;
       margin: 20px auto;
       padding: 20px;
+      text-align: center;
+      font-size: 12;
     }
     
     section {
