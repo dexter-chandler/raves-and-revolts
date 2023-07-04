@@ -10,10 +10,8 @@
 
     body {
      background-image: url("Background");
-      background-size: cover;
-    
+      background-size: cover
       color: #fff;
-     
     }
     
     header {
@@ -35,7 +33,7 @@
       margin: 20px auto;
       padding: 20px;
       text-align: center;
-      font-size: 12;
+      font-size: 40;
     }
     
     section {
@@ -105,7 +103,6 @@ So what are we to do, in the face of this new boot on our neck? Fight? Run? Try 
       <h2>The Event</h2>
       <ul>
         <li>
-          <h3>Details</h3>
           <p>Date: TBA - Summer 2024</p>
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
         </li>
