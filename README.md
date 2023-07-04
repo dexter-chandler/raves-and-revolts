@@ -79,7 +79,24 @@
   <main>
     <section>
       <h2>The Hook...</h2>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer sodales ligula nec mi pulvinar, id sollicitudin mi dapibus. Phasellus sed consectetur nibh. Aenean tristique placerat lorem, eu tempus enim gravida eget. Suspendisse rhoncus ligula eget dui euismod volutpat.</p>
+      <p>
+“Since the Fall of London, the Camarilla have been hiding. Retreating into their clandestine Ivory Tower, pulling away from the modern world, trying to weather the storm of Operation Antigen, in all its forms. For the first time in centuries, kindred like us have a reason to be afraid. The Second Inquisition has come down on our society like a sledgehammer.  
+ 
+The world our sires knew is nothing but ashes, a shitty memory. They tried living in the light – tried running the joint – and once again the humans they were playing with like puppets realised that they could bite back. And bite they fucking did. 
+
+But us Anarchs have never been one to slink away. The way I see it, we are no more likely to meet our final deaths at the hand of the Humans now, than we were when the Camarilla were running the show, or before the Elders fucked off following the call of a long-dead mystical war. The fact of the matter is, we are parasites and cockroaches, and if there is one thing we can do well, it’s survive in the wretched underbelly of any city we choose.  
+ 
+So what are we to do, in the face of this new boot on our neck? Fight? Run? Try and carve out something new where we can simply exist? For too long we’ve been reeling from the execution of a load of aged old fucks whose hands around our throat meant that we had no choice but lick boots and kiss arse to some holier-than-thou vampire or another: and now is our chance to try and do something new. Something different. 
+
+This world is full of possibilities.
+ 
+The Baron has called a Rave. To get all of us in one place, with the premise of cutting loose and talking about where we go from here. It’s as much an excuse to protest the fact we still exist, as it is for us all to scope out potential allies, and enemies. A relic of our movement from decades ago. 
+
+
+ Come one, come all! To the largest meeting of Licks, Roaches, Kindred, Rats – whatever sobriquet you prefer – since London fell and sent us scrambling for a place to be. Sugarcoat it all you want, but there’s one thing the undead know how to do now better than before... 
+ 
+… AND THAT’S HAVE A FUCKING PARTY!”
+</p>
     </section>
     
     <section>
