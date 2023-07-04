@@ -16,6 +16,7 @@
     }
     
     header {
+      color: #fff;
       font-family: Times, serif;
       background-color: #393636;
       padding: 10px;
@@ -35,6 +36,7 @@
       padding: 20px;
       text-align: center;
       font-size: 20px;
+      color: #fff;
     }
     
     section {
