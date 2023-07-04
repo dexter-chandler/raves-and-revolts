@@ -11,6 +11,7 @@
     body {
      background-image: url("Background");
       background-size: cover
+      
       color: #fff;
     }
     
@@ -33,7 +34,7 @@
       margin: 20px auto;
       padding: 20px;
       text-align: center;
-      font-size: 20;
+      font-size: 20px;
     }
     
     section {
