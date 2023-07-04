@@ -5,9 +5,9 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Vampire: The Masquerade LARP</title>
   <link rel="stylesheet" href="styles.css">
+ 
   <style>
     
-
     body {
      background-image: url("Background");
       background-size: cover
@@ -79,7 +79,10 @@
   <header>
     <h1>Raves and Revolts a Vampire: The Masquerade LARP <img src="Symbol_13.jpg" alt="Symbol_RR" width="250" height="250"></h1>
   </header>
-  
+   <nav>
+      <a href="./README.md">Home</a>
+      <a href="./The Clans">The Clans</a>
+    </nav>
   <main>
     <section>
       <h2>The Hook...</h2>
