@@ -13,7 +13,7 @@
       background-size: cover;
     
       color: #fff;
-      font-family: Times, serif;
+     
     }
     
     header {
@@ -28,6 +28,7 @@
     }
     
     main {
+      font-family: Times, serif;
       background-color: #393636;
       max-width: 1600px;
       margin: 20px auto;
