@@ -81,11 +81,11 @@
   </header>
    <nav>
       <ul>
-        <li><a href="#">Home</a></li>
-        <li><a href="#">Characters</a></li>
-        <li><a href="#">Rules</a></li>
-        <li><a href="#">Events</a></li>
-        <li><a href="#">Contact</a></li>
+        <a href="#">Home</a>
+        <a href="#">Characters</a>
+        <a href="#">Rules</a>
+        <a href="#">Events</a>
+        <a href="#">Contact</a>
       </ul>
     </nav>
   <main>
