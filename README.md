@@ -83,8 +83,9 @@
   <main>
      <nav>
       <ul>
-        <a href="#">Home</a>
+        <a href="README.md">Home</a>
         <a href="#">Characters</a>
+        <a href="The Clans">The Clans</a>
         <a href="#">Rules</a>
         <a href="#">Events</a>
         <a href="#">Contact</a>
